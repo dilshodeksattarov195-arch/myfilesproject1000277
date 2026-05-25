@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicestringify",
+        "uuid": 2498540,
+        "checksum": "yo7ua"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
